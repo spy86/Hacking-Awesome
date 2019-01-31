@@ -1,3 +1,4 @@
+[![Documentation Status](https://readthedocs.org/projects/awesome-hack/badge/?version=latest)](https://awesome-hack.readthedocs.io/en/latest/?badge=latest)
 # Awesome-hack
 
 Repository | Description
