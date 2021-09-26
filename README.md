@@ -1,5 +1,7 @@
 # Awesome hacking
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 - [ ] [Android Security](https://github.com/ashishb/android-security-awesome) - Collection of Android security related resources
 - [ ] [AppSec](https://github.com/paragonie/awesome-appsec)								- Resources for learning about application security
 - [ ] [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						- List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
